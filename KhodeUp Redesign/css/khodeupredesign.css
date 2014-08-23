@@ -1,0 +1,12 @@
+html {
+	font-family: Futura, "Century Gothic", Helvetica;
+}
+body {
+	margin: none;
+}
+	#header-m {
+		background-image: url("img/header.png");
+		background-repeat: none;
+		background-overflow: hidden;
+		height: 600px;
+	}
